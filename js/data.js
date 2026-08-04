@@ -66,6 +66,22 @@ const POSTS = [
     ]
   },
   {
+    slug: "inteligencia-artificial-agentes-autonomos-2026",
+    title: "Inteligência artificial: agentes autônomos começam a trabalhar por conta própria",
+    category: "I.A",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Rede neural digital com conexões luminosas representando inteligência artificial",
+    date: "2026-07-24",
+    excerpt: "Os 'agentes de IA' prometem automatizar tarefas complexas: de planejar viagens a gerenciar projetos. Entenda como funcionam.",
+    source: "MIT Technology Review",
+    sourceUrl: "https://www.technologyreview.com",
+    body: [
+      "Se 2024 foi o ano dos chatbots, 2026 aponta para os 'agentes de IA' — sistemas que não apenas conversam, mas executam tarefas de ponta a ponta.",
+      "Em vez de responder perguntas, esses agentes podem navegar na web, escrever código, agendar compromissos e coordenar ferramentas para completar objetivos.",
+      "O avanço traz ganhos de produtividade, mas também levanta questões sobre supervisão, erros e responsabilidade. Ainda assim, o caminho parece irreversível."
+    ]
+  },
+  {
     slug: "superposicao-emaranhamento-etica-quantica",
     title: "Mecânica quântica: superposição e emaranhamento explicados sem complicação",
     category: "Mecânica Quântica",
