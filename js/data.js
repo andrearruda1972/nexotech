@@ -64,5 +64,37 @@ const POSTS = [
       "O grande obstáculo sempre foi a instabilidade dos qubits. Avanços recentes em correção de erros estão mudando esse cenário.",
       "Embora ainda não seja uma realidade comercial ampla, os progressos em 2026 colocam os computadores quânticos mais perto de usos práticos reais."
     ]
+  },
+  {
+    slug: "superposicao-emaranhamento-etica-quantica",
+    title: "Mecânica quântica: superposição e emaranhamento explicados sem complicação",
+    category: "Mecânica Quântica",
+    image: "https://images.unsplash.com/photo-1635241161466-541f506683a0?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Esfera de átomos em luz azul representando a física quântica",
+    date: "2026-07-28",
+    excerpt: "Superposição, emaranhamento e o 'gato de Schrödinger': como funcionam os conceitos que sustentam os computadores quânticos.",
+    source: "Nature Physics",
+    sourceUrl: "https://www.nature.com/nphys/",
+    body: [
+      "A mecânica quântica descreve o comportamento da matéria em escala atômica e subatômica — um mundo onde as regras intuitivas do dia a dia simplesmente não valem.",
+      "Superposição é a capacidade de uma partícula existir em vários estados ao mesmo tempo até ser medida. Emaranhamento liga partículas de forma que medir uma revela o estado da outra, mesmo a grandes distâncias.",
+      "São esses fenômenos que os computadores quânticos exploram para processar informações de formas impossíveis para máquinas clássicas."
+    ]
+  },
+  {
+    slug: "curiosidades-ciencia-dia-a-dia",
+    title: "Curiosidades científicas que explicam o dia a dia",
+    category: "Diversão",
+    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Pessoa sorrindo em ambiente colorido e divertido",
+    date: "2026-07-26",
+    excerpt: "Do porquê do céu ser azul ao motivo de bocejarmos: curiosidades curiosas com base científica.",
+    source: "Scientific American",
+    sourceUrl: "https://www.scientificamerican.com",
+    body: [
+      "O céu é azul porque a luz solar se espalha ao interagir com as moléculas da atmosfera — o espalhamento afeta mais as ondas curtas (azuis) do que as longas.",
+      "Bocejo ainda intriga cientistas, mas a hipótese mais aceita é que ele ajuda a regular a temperatura do cérebro e aumentar o estado de alerta.",
+      "Cada pequena observação do cotidiano esconde um princípio científico — e explorá-los torna o mundo um lugar mais interessante."
+    ]
   }
 ];
