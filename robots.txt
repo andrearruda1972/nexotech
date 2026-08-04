@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andrearruda1972.github.io/nexotech/sitemap.xml
