@@ -2,6 +2,22 @@
 // Cada post: { slug, title, category, date, excerpt, source, sourceUrl, body[] }
 const POSTS = [
   {
+    slug: "buraco-negro-errante-estrela-swift",
+    title: "Buraco negro 'órfão' é flagrado devorando uma estrela longe do centro da galáxia",
+    category: "Ciência",
+    image: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Céu noturno repleto de estrelas em alta resolução, representando o espaço profundo",
+    date: "2026-08-06",
+    excerpt: "Pela primeira vez, um buraco negro supermassivo foi detectado despedaçando uma estrela bem longe do núcleo de sua galáxia — revelando 'órfãos' invisíveis à espreita.",
+    source: "NASA / The Astrophysical Journal Letters (via ScienceDaily)",
+    sourceUrl: "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+    body: [
+      "O observatório Neil Gehrels Swift, da NASA, flagrou um raro espetáculo cósmico: um buraco negro supermassivo, com cerca de 1 milhão de vezes a massa do Sol, despedaçando e consumindo uma estrela a mais de 30 mil anos-luz do centro de sua galáxia — o primeiro evento desse tipo já observado tão longe de um núcleo galáctico.",
+      "O evento começou a chamar atenção em novembro de 2025, quando o levantamento ZTF, no Observatório Palomar, na Califórnia, detectou um clarão incomum numa galáxia a cerca de 750 milhões de anos-luz da Terra. Um algoritmo de inteligência artificial reconheceu o padrão de uma 'perturbação de maré' — quando a gravidade de um buraco negro dilacera uma estrela que se aproxima demais. No pico, o clarão chegou a brilhar com a intensidade de 10 bilhões de sóis e, durante meses, superou a luz de toda a galáxia ao redor.",
+      "A descoberta, publicada em 27 de julho na revista The Astrophysical Journal Letters, valida uma nova técnica para caçar buracos negros supermassivos 'órfãos' que vagam longe dos centros galácticos, onde normalmente se escondem. Além de revelar estruturas que permaneceriam invisíveis, o estudo abre caminho para encontrar mais desses gigantes errantes e entender melhor como o universo os distribui."
+    ]
+  },
+  {
     slug: "energia-escura-expansao-universo",
     title: "Nova medição lança luz sobre a energia escura e a expansão do universo",
     category: "Ciência",
