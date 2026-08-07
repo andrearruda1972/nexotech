@@ -2,6 +2,22 @@
 // Cada post: { slug, title, category, date, excerpt, source, sourceUrl, body[] }
 const POSTS = [
   {
+    slug: "eletrons-fases-coexistentes-material-quantico",
+    title: "Físicos do MIT observam elétrons se organizarem em fases coexistentes num material quântico",
+    category: "Ciência",
+    image: "https://images.unsplash.com/photo-1635241161466-541f506683a0?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Esfera de átomos em luz azul representando a física quântica e os elétrons em organização",
+    date: "2026-08-07",
+    excerpt: "Pesquisadores do MIT revelam, em estudo publicado na Nature Physics, como duas fases de comportamento eletrônico emergem e coexistem num mesmo material quântico — um passo para projetar dispositivos quânticos de alta performance.",
+    source: "MIT News / Nature Physics",
+    sourceUrl: "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
+    body: [
+      "Um copo de água com gelo é um exemplo cotidiano de fases coexistentes: a mesma substância existe, ao mesmo tempo, em estado líquido e sólido. Agora, físicos do MIT mostraram que essa 'dualidade de fases' também acontece — de formas bem mais complexas — em materiais quânticos, e conseguiram observá-la em tempo real.",
+      "O grupo liderado pelo professor Nuh Gedik estudou o telureto de érbio, um material de terras raras cujos elétrons, ao serem resfriados, organizam-se em padrões ondulados conhecidos como 'ondas de densidade de carga'. A surpresa veio ao desmontar cada fase: a primeira se forma gradualmente, como água líquida virando vapor; já a segunda emerge de um jeito inédito, com os elétrons se agrupando primeiro em 'bolsões' que depois se expandem — como água cristalizando em gelo. O resultado foi publicado hoje na revista Nature Physics.",
+      "Entender como fases eletrônicas coexistem e interagem é essencial para dominar fenômenos como a supercondutividade e o magnetismo em escala quântica. Essa é a base para substituir o silício em futuros dispositivos quânticos de alta performance. Segundo os autores, o experimento oferece uma forma 'muito elegante' de investigar a física oculta por trás dessas transições — aproximando a ciência do desenho de máquinas quânticas mais poderosas."
+    ]
+  },
+  {
     slug: "buraco-negro-errante-estrela-swift",
     title: "Buraco negro 'órfão' é flagrado devorando uma estrela longe do centro da galáxia",
     category: "Ciência",
