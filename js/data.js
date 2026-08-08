@@ -2,6 +2,22 @@
 // Cada post: { slug, title, category, date, excerpt, source, sourceUrl, body[] }
 const POSTS = [
   {
+    slug: "agentes-ia-auditam-literatura-cientifica-erros",
+    title: "Agentes de IA estão auditando a literatura científica — e acham erros de décadas",
+    category: "I.A",
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Representação abstrata de inteligência artificial com padrões de rede neural em tons de azul",
+    date: "2026-08-08",
+    excerpt: "Ferramentas de IA estão varrendo bases de dados e artigos científicos tão antigos quanto décadas — e descobrindo erros que se perpetuaram na literatura por anos, de pontos de ebulição a fórmulas.",
+    source: "Nature",
+    sourceUrl: "https://www.nature.com/articles/d41586-026-02235-8",
+    body: [
+      "Por décadas, quem estuda química confiou em valores prontos de pontos de ebulição de moléculas, usados para identificar substâncias e planejar processos como destilação. Mas um modelo de inteligência artificial revelou que alguns desses números, aceitos como verdade por gerações, estavam errados o tempo todo — e o erro estava na base de referência, não na máquina.",
+      "O químico Sebastian Pios, do Zhejiang Lab, na China, usava um sistema de IA para prever pontos de ebulição quando os resultados começaram a conflitar com os registros de um banco de dados com mais de 75 anos. Ao conferir a literatura original manualmente, ele descobriu que os dados de referência estavam incorretos. Em outros casos, a IA flagrou erros de digitação e valores errados em medições centenárias que já haviam entrado para o 'cânone' científico. É uma tendência crescente: pesquisadores usam cada vez mais agentes de IA para auditar a ciência, inclusive reavaliando artigos de conferências de prestígio como o ICML e o NeurIPS.",
+      "O uso de IA nessa tarefa tem uma vantagem clara: a velocidade para varrer bases de dados numa escala impossível para humanos. Mas especialistas lembram que essas ferramentas ainda cometem erros e exigem supervisão humana — e decisões sobre a relevância e a novidade de uma descoberta devem continuar com as pessoas. Ainda assim, a capacidade de encontrar falhas escondidas há décadas promete tornar o alicerce da ciência mais sólido para as próximas gerações de pesquisa."
+    ]
+  },
+  {
     slug: "eletrons-fases-coexistentes-material-quantico",
     title: "Físicos do MIT observam elétrons se organizarem em fases coexistentes num material quântico",
     category: "Ciência",
