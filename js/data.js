@@ -2,6 +2,22 @@
 // Cada post: { slug, title, category, date, excerpt, source, sourceUrl, body[] }
 const POSTS = [
   {
+    slug: "robo-ia-reabilitacao-avc-aprende-fisioterapeutas",
+    title: "Reabilitação pós-AVC: robô com IA aprende com fisioterapeutas para ajudar cada paciente",
+    category: "I.A",
+    image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "Robô humanoide branco, representando o sistema robótico de reabilitação criado por engenheiros do MIT",
+    date: "2026-08-09",
+    excerpt: "Engenheiros do MIT treinaram um robô com inteligência artificial generativa para aprender com fisioterapeutas e oferecer reabilitação personalizada a pacientes de AVC — adaptando a assistência física a cada pessoa em tempo real.",
+    source: "MIT News",
+    sourceUrl: "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+    body: [
+      "O AVC é uma das principais causas de morte e incapacidade no mundo: atinge cerca de 15 milhões de pessoas por ano e deixa 5 milhões com sequelas de longo prazo. Ao mesmo tempo, há uma escassez crescente de fisioterapeutas, o que dificulta o acesso a um cuidado consistente e de qualidade. Para enfrentar esse duplo desafio, engenheiros mecânicos do MIT desenvolveram um sistema robótico que combina inteligência artificial generativa com práticas reais de cuidado humano.",
+      "A ideia central é ensinar robôs a auxiliar na fisioterapia — não para substituir terapeutas, mas para ampliar seu alcance. O sistema, criado por Johannes Lachner (MIT e Purdue) e Noah Geiger (Robert Bosch), usa modelos de difusão combinados com realimentação de força em tempo real. O robô de dois braços aprende com demonstrações de fisioterapeutas como responder a toque, força e resistência, fornecendo exatamente a quantidade certa de assistência para manter o paciente desafiado e engajado. A novidade é que, enquanto a maior parte dos modelos generativos em robótica foca em movimento, este aprende a interação física dinâmica.",
+      "Em testes iniciais com participantes saudáveis, o sistema acompanhou movimentos de reabilitação — como levantar o braço e alcançar objetos fora do alcance — ajustando-se ao esforço de cada pessoa. O potencial vai além do AVC: pode ajudar pacientes pós-cirúrgicos a recuperar amplitude de movimento e idosos a manter força nos braços e ombros. Segundo os pesquisadores, a abordagem também pode ensinar robôs a interagir fisicamente com o mundo em fábricas e espaços colaborativos, inaugurando uma nova geração de robôs fisicamente inteligentes e seguros. O trabalho foi publicado na revista IEEE Transactions on Robotics."
+    ]
+  },
+  {
     slug: "agentes-ia-auditam-literatura-cientifica-erros",
     title: "Agentes de IA estão auditando a literatura científica — e acham erros de décadas",
     category: "I.A",
